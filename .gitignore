@@ -1,0 +1,5 @@
+.idea
+app
+site
+.docker/mysql/
+!.docker/mysql/.env.example
